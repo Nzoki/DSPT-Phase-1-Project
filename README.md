@@ -13,10 +13,14 @@ bom.movie_gross.csv
 tn.movie_budgets.csv
 im.db.sqlite
 
-For the analysis the following questions were answered:
+**For the analysis the following questions were answered:
+**
  Which is the best time of the year to produce movies?
- Which studios produced most movies and which one had high gross incomes?- 
+ 
+ Which studios produced most movies and which one had high gross incomes?
+ 
  Which is the most produced genre?
+ 
  Which genres are most successful in terms of profit making?
 
 **Technologies used**
