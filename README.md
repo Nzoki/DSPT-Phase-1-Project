@@ -11,7 +11,7 @@ Microsoft sees all the big companies creating original video content and they wa
 I used the following data sets:- 
 bom.movie_gross.csv
 tn.movie_budgets.csv
-im.db.sqlite
+im.db
 
 **For the analysis the following questions were answered:
 **
